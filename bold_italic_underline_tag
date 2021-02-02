@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>an example of bold,italic,underline tag</title>
+<b>this is the bold tag</b><br/>
+<i>this is the italic tag</i><br/>
+<u>underline tag</u><br/>
+h<sup>2</sup>o<br/>
+h<sub>2</sub>o
+</body>
+</html>
