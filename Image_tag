@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Example of image tag</title>
+</title>
+</head>
+<body>
+<img src="Flowers.jpg" alt=image of desert"/>
+</body>
+</html>
